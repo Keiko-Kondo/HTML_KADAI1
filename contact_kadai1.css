@@ -1,0 +1,42 @@
+.name{
+  width: 480px;
+}
+.mail{
+  width: 480px;
+}
+.question{
+   width: 480px
+}
+.table_head{
+  width: 150px;
+  text-align: right;
+  padding:0;
+  margin:0;
+}
+.contact tr{
+   height: 7rem;
+}
+.send{
+  border: solid 1px #ADD8E6;
+  background-color: #ADD8E6;
+  color:white;
+  height: 3rem;
+  width: 7rem;
+  text-align: center;
+  padding:1rem;
+  font-size: 3rem;
+  margin-left: 300px;
+}
+.send:hover{
+  opacity:0.5;
+}
+.sex_check{
+  display: table;
+}
+.content{
+  padding: 0;
+  margin: 0;
+}
+.content{
+   margin-top:0;
+}
